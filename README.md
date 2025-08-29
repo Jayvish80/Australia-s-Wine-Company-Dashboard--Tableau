@@ -7,11 +7,15 @@ Australia’s Wine Company Insights Dashboard
 This project is a Tableau dashboard analyzing Australia’s wine company sales performance. It provides insights into revenue distribution by wine sub-segment, region, and state, as well as customer order behavior.
 
 📊 Dashboard Highlights
--> Overall Revenue: $9.24M across 129K orders
+-> Overall Revenue: $9.24M across 129K orders.
+
 -> Top Sub-Segments by Revenue:
     > Pinot Gris – $1.06M
+    
     > Riesling – $0.93M
+    
     > Sauvignon Blanc – $0.88M
+    
 -> State Revenue Leaders:
     > Western Australia – $2.18M
     > South Australia – $0.96M
