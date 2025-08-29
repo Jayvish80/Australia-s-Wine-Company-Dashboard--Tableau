@@ -11,21 +11,21 @@ This project is a Tableau dashboard analyzing Australia’s wine company sales p
 
 -> Top Sub-Segments by Revenue:
     > Pinot Gris – $1.06M
-    
     > Riesling – $0.93M
-    
     > Sauvignon Blanc – $0.88M
     
 -> State Revenue Leaders:
     > Western Australia – $2.18M
     > South Australia – $0.96M
--> Customer Insights: Order quantity vs revenue patterns highlight top buyers
+    
+-> Customer Insights: Order quantity vs revenue patterns highlight top buyers.
 
 🔗 Tableau Public Link
 
 You can interact with the live dashboard here:https://public.tableau.com/views/AustraliasWineCompanyDashboard_17427656193490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-⚙️ How It’s Built
+⚙️ How It’s Built:
+
 -> Tool: Tableau
 -> Dataset: (Specify if public / Kaggle / given dataset)
 -> Focus: Sales trends, customer segmentation, and regional performance
