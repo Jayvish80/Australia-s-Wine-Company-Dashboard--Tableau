@@ -10,9 +10,9 @@ This project is a Tableau dashboard analyzing Australia’s wine company sales p
 -> Overall Revenue: $9.24M across 129K orders.
 
 -> Top Sub-Segments by Revenue:
-    > Pinot Gris – $1.06M
-    > Riesling – $0.93M
-    > Sauvignon Blanc – $0.88M
+    <p>> Pinot Gris – $1.06M</p>
+    <p>> Riesling – $0.93M</p>
+    <p>> Sauvignon Blanc – $0.88M</p>
     
 -> State Revenue Leaders:
     > Western Australia – $2.18M
