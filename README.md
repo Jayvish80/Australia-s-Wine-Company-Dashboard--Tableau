@@ -19,8 +19,7 @@ This project is a Tableau dashboard analyzing Australia’s wine company sales p
 
 🔗 Tableau Public Link
 
-You can interact with the live dashboard here:
-👉 View on Tableau Public: https://public.tableau.com/views/AustraliasWineCompanyDashboard_17427656193490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+You can interact with the live dashboard here:https://public.tableau.com/views/AustraliasWineCompanyDashboard_17427656193490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ⚙️ How It’s Built
 -> Tool: Tableau
